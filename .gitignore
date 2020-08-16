@@ -3,3 +3,12 @@
 application/target/classes/customer/
 controller/target/classes/customer/
 domain/target/classes/domain/
+*.classpath
+*.class
+*.iml
+.idea
+application/.classpath
+controller/.classpath
+domain/.classpath
+repository/.classpath
+service/.classpath
